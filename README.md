@@ -13,3 +13,7 @@ Example: generate password without symbols, length 10 chars
 Save generated password in file
 
 > passgen --length=15 --save
+
+### Credits
+
+https://www.youtube.com/watch?v=3Xx83JAktXk&t=160s
